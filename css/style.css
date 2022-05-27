@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../img/img1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    height: 110vh;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
+h1{
+    color: #ff0000;
+    font-size: 35;
+    margin-top: 7%;
+}
+h2{
+    color: #ff0000;
+    font-size: 35;
+    
+}
+p{
+    color: #000000;
+    font-size: 35;
+    
+}
+button{
+    padding: 20px 15px;
+    margin: 10Px;
+    background: #000000;
+    border: 2px solid #ff0000;
+    cursor: pointer;
+    font-size: 22px;
+    color: #ffffff;
+    transition: 5px;
+}
+button:hover{
+background: transparent;
+color: #ff0000a8
+
+}
